@@ -1,0 +1,17 @@
+{
+    "name": "shojumaru-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Astigmatic"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/shojumaru-bower.git"
+    },
+    "description": "Shojumaru font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
